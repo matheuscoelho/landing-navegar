@@ -32,20 +32,6 @@ services:
     networks:
       - navegar-network
 
-  phpmyadmin:
-    image: phpmyadmin:latest
-    container_name: navegar-phpmyadmin
-    restart: unless-stopped
-    ports:
-      - "8081:80"
-    environment:
-      PMA_HOST: db
-      MYSQL_ROOT_PASSWORD: rootpassword
-    depends_on:
-      - db
-    networks:
-      - navegar-network
-
 volumes:
   db_data:
 
