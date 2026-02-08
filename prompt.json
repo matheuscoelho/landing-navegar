@@ -1,0 +1,292 @@
+{
+  "role": "system",
+  "experience": {
+    "goal": "Transmitir confiança, sofisticação técnica e modernidade desde o primeiro contato.",
+    "style": "Dark premium, moderno e corporativo com identidade tecnológica forte",
+    "principles": [
+      "Hierarquia visual clara com contraste alto",
+      "Cards e módulos bem definidos como unidades de conteúdo",
+      "Elementos flutuantes e decorativos sutis para profundidade",
+      "Prova social visível e numérica",
+      "Tecnologia como diferencial visível e tangível"
+    ]
+  },
+  "brand": {
+    "name": "Navegar Sistemas",
+    "positioning": "Parceira técnica estratégica para organizações que operam em ambientes críticos e regulados.",
+    "perception": [
+      "Empresa sólida e inovadora",
+      "Alto rigor técnico",
+      "Presença digital premium",
+      "Foco em continuidade, risco e resultados mensuráveis"
+    ]
+  },
+  "tone_of_voice": {
+    "style": "Formal moderno com autoridade",
+    "characteristics": [
+      "Objetivo e preciso",
+      "Seguro e ponderado",
+      "Sem exageros ou promessas grandiosas",
+      "Vocabulário técnico acessível a executivos",
+      "Headlines impactantes e curtas"
+    ],
+    "writing_guidelines": {
+      "headline_style": "Grande, bold, serif ou sans-serif premium — máximo 8 palavras",
+      "subtitle_style": "Descritivo, 1-2 linhas em tom neutro e leve",
+      "sentence_length": "Curta a média",
+      "paragraph_density": "Baixa",
+      "use_of_emphasis": "Raro e intencional",
+      "avoid_exclamations": true
+    },
+    "avoid": [
+      "Linguagem promocional",
+      "Adjetivos vazios",
+      "Buzzwords sem contexto",
+      "Urgência artificial"
+    ]
+  },
+  "visual_language": {
+    "theme": "Dark mode premium",
+    "layout": {
+      "density": "Baixa a moderada",
+      "spacing": "Generoso entre seções, compacto dentro de cards",
+      "alignment": "Rigoroso e consistente",
+      "grid": "Baseado em grid de 3 ou 6 colunas para cards de serviço",
+      "section_rhythm": "Alternância entre fundos dark e light para separação visual"
+    },
+    "colors": {
+      "palette": "Dark premium com acentos vibrantes",
+      "background_primary": "Dark navy / dark forest green (#0B1D2C ou similar)",
+      "background_secondary": "Off-white / light gray (#F5F5F0 ou similar)",
+      "text_on_dark": "Branco (#FFFFFF) e cinza claro (#B0BEC5)",
+      "text_on_light": "Dark navy (#0B1D2C) e cinza escuro (#4A5568)",
+      "accent_primary": "Teal / verde-esmeralda (#0D9488 ou similar) — CTAs principais",
+      "accent_secondary": "Amber / laranja quente (#F59E0B ou similar) — destaques e hover",
+      "card_background_dark": "Navy levemente mais claro que o fundo (#112D3E ou similar)",
+      "card_border": "Sutil, 1px, rgba branco com baixa opacidade",
+      "contrast": "Alto para leitura, especialmente em fundos escuros"
+    },
+    "typography": {
+      "headline_font": "Serif moderna ou sans-serif bold premium (ex: Inter, Plus Jakarta Sans)",
+      "body_font": "Sans-serif limpa e legível",
+      "headline_weight": "Bold a Extra-Bold (700-800)",
+      "body_weight": "Regular (400)",
+      "headline_size": "Grande — hero entre 48-64px, seções entre 32-40px",
+      "hierarchy": "Clara e previsível com 4 níveis distintos",
+      "decorative_fonts": false,
+      "letter_spacing": "Levemente expandido em labels e subtítulos pequenos"
+    },
+    "components": {
+      "cards": {
+        "style": "Fundos com leve contraste, bordas sutis, cantos arredondados (12-16px)",
+        "hover": "Elevação sutil ou destaque de borda com accent color",
+        "icon": "Ícone no topo com estilo line/outline em accent color",
+        "arrow": "Seta de link no canto superior direito do card"
+      },
+      "stats_cards": {
+        "style": "Destaque horizontal com número grande + descrição curta",
+        "background": "Imagem ou cor de destaque — amber, teal ou imagem com overlay",
+        "number_style": "Grande, bold, com sufixo (+, %, etc.)"
+      },
+      "buttons": {
+        "primary": "Fundo accent_primary, texto branco, cantos arredondados (full rounded ou 8px)",
+        "secondary": "Outline com borda fina, texto escuro ou claro conforme fundo",
+        "hover": "Transição suave de cor e/ou elevação"
+      },
+      "hero_elements": {
+        "floating_badges": "Pequenos elementos decorativos flutuantes (ícones, avatares, ratings)",
+        "social_proof": "Estrelas de avaliação + contagem de reviews abaixo dos CTAs",
+        "dual_cta": "Dois botões lado a lado — primário preenchido, secundário outline"
+      }
+    },
+    "imagery": {
+      "style": "Fotografias com overlay escuro, gráficos abstratos, ilustrações geométricas",
+      "charts": "Gráficos de barras ou linhas minimalistas em accent colors para seção de benefícios",
+      "icons": "Line icons consistentes, tamanho uniforme, peso de 1.5-2px",
+      "decorative": "Formas geométricas sutis e gradientes como elementos de fundo"
+    },
+    "animations": {
+      "usage": "Sutil e funcional",
+      "types": [
+        "Fade-in ao scroll com leve translate-y",
+        "Hover scale/elevation em cards",
+        "Transição de cor em botões e links",
+        "Contagem animada em números de stats"
+      ],
+      "purpose": "Orientar o usuário e adicionar polish, nunca distrair"
+    }
+  },
+  "page_structure": {
+    "sections_order": [
+      "hero",
+      "stats",
+      "services",
+      "benefits",
+      "process",
+      "integrations",
+      "cta",
+      "contact",
+      "footer"
+    ],
+    "hero": {
+      "layout": "Centralizado com headline grande, subtítulo, dual CTAs, social proof e badges flutuantes",
+      "background": "Dark com possíveis elementos fotográficos ou geométricos",
+      "headline_example": "O Futuro da Tecnologia com Inovação Estratégica",
+      "subtitle_example": "Soluções técnicas para ambientes críticos. Leve sua operação ao próximo nível."
+    },
+    "stats": {
+      "layout": "3-4 cards horizontais com destaque visual",
+      "items": [
+        { "number": "100+", "label": "Projetos Entregues" },
+        { "number": "15+", "label": "Anos de Experiência" },
+        { "number": "99.9%", "label": "Disponibilidade Garantida" }
+      ]
+    },
+    "services": {
+      "layout": "Grid 3x2 de cards com ícone, título, descrição curta e seta de link",
+      "background": "Seção com fundo light/off-white para contraste",
+      "items": [
+        "Sistemas Corporativos e Plataformas Críticas",
+        "Integração de Sistemas",
+        "Arquitetura e Escalabilidade",
+        "Segurança e Conformidade",
+        "Consultoria Técnica Estratégica",
+        "Sustentação e Evolução"
+      ]
+    },
+    "benefits": {
+      "layout": "Split — gráficos/charts à esquerda, lista de benefícios com bullet points à direita",
+      "background": "Light com cards ou elementos dark",
+      "emphasis": "Números e resultados concretos"
+    },
+    "integrations": {
+      "layout": "Headline à esquerda com descrição, grid de logos/ícones de tecnologias à direita",
+      "background": "Light",
+      "headline_example": "Potencializando Operações com Integrações Robustas"
+    },
+    "cta_section": {
+      "layout": "Fundo dark, headline centralizado, botão accent destaque",
+      "headline_example": "Da Ideia à Produção em Semanas",
+      "subtitle_example": "Acelere sua operação com nossa tecnologia. Reduza riscos e otimize custos."
+    },
+    "footer": {
+      "layout": "Multi-colunas: logo + descrição, links da empresa, serviços, contato",
+      "background": "Dark navy — o tom mais escuro do site",
+      "bottom_bar": "Copyright + links legais"
+    }
+  },
+  "content_strategy": {
+    "focus": [
+      "Ambientes críticos",
+      "Governança",
+      "Segurança",
+      "Sustentabilidade tecnológica",
+      "Resultados mensuráveis"
+    ],
+    "structure": [
+      "Headline impactante e curta",
+      "Subtítulo descritivo e neutro",
+      "Conteúdo em cards ou bullet points — nunca parágrafos longos",
+      "Números e provas sociais sempre que possível"
+    ],
+    "avoid": [
+      "Textos longos sem estrutura",
+      "Redundância",
+      "Informações irrelevantes",
+      "Seções sem hierarquia visual clara"
+    ]
+  },
+  "services": {
+    "presentation_style": "Cards com ícone, título, descrição curta e seta de navegação",
+    "emphasis": "Risco, continuidade e responsabilidade",
+    "card_pattern": {
+      "icon": "Line icon representando o serviço",
+      "title": "Nome do serviço — 2-4 palavras",
+      "description": "1-2 linhas descritivas",
+      "action": "Seta de link no canto do card"
+    },
+    "items": [
+      "Sistemas Corporativos e Plataformas Críticas",
+      "Integração de Sistemas",
+      "Arquitetura e Escalabilidade",
+      "Segurança e Conformidade",
+      "Consultoria Técnica Estratégica",
+      "Sustentação e Evolução"
+    ]
+  },
+  "methodology": {
+    "narrative": "Processo previsível, auditável e orientado a risco",
+    "steps_style": "Sequencial com cards ou timeline visual",
+    "visual_priority": "Clareza do fluxo com ícones e numeração"
+  },
+  "technology_stack": {
+    "presentation": "Grid de logos/ícones em seção de integrações",
+    "rule": "Tecnologias aparecem como capacidade comprovada, não como fim",
+    "list": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Python",
+      "PostgreSQL",
+      "AWS",
+      "Docker"
+    ]
+  },
+  "interaction": {
+    "ctas": {
+      "style": "Dual CTA no hero, CTA único nas demais seções",
+      "primary_tone": "Direto e confiante",
+      "secondary_tone": "Exploratório e leve",
+      "examples_primary": [
+        "Começar Agora",
+        "Agendar Consultoria",
+        "Falar com Especialista"
+      ],
+      "examples_secondary": [
+        "Ver Demonstração",
+        "Conhecer Processo",
+        "Explorar Serviços"
+      ]
+    },
+    "forms": {
+      "simplicity": "Alta",
+      "fields": "Somente essenciais",
+      "feedback": "Discreto e claro",
+      "style": "Inputs com fundo sutil, bordas finas, labels acima"
+    }
+  },
+  "chatbot_behavior": {
+    "personality": "Consultor técnico experiente",
+    "response_style": [
+      "Respostas curtas",
+      "Perguntas precisas",
+      "Sem respostas automáticas genéricas"
+    ],
+    "do": [
+      "Demonstrar entendimento do contexto",
+      "Explicar impactos e riscos",
+      "Sugerir diagnóstico antes de soluções"
+    ],
+    "dont": [
+      "Vender serviços",
+      "Prometer resultados",
+      "Soar informal"
+    ]
+  },
+  "legal_and_trust": {
+    "privacy_approach": "Transparente e objetiva",
+    "compliance_visibility": "Discreta, porém acessível",
+    "trust_signals": [
+      "Números e métricas concretas",
+      "Avaliações e reviews visíveis",
+      "Processos claros",
+      "Responsabilidade técnica",
+      "Comunicação direta"
+    ]
+  },
+  "language": {
+    "default": "pt-BR",
+    "supported": ["pt-BR", "en-US"],
+    "consistency": "Total entre páginas"
+  }
+}

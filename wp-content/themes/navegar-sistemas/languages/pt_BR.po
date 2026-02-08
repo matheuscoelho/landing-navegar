@@ -1,0 +1,452 @@
+# Portuguese (Brazil) translation for Navegar Sistemas Theme
+# Copyright (C) 2024 Navegar Sistemas LTDA
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Navegar Sistemas Theme 1.0.0\n"
+"Report-Msgid-Bugs-To: https://navegarsistemas.com.br\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: Navegar Sistemas <contato@navegarsistemas.com.br>\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: functions.php
+msgid "Primary Menu"
+msgstr "Menu Principal"
+
+#: functions.php
+msgid "Footer Menu"
+msgstr "Menu do Rodapé"
+
+#: functions.php
+msgid "Sending..."
+msgstr "Enviando..."
+
+#: functions.php
+msgid "Message sent successfully!"
+msgstr "Mensagem enviada com sucesso!"
+
+#: functions.php
+msgid "An error occurred. Please try again."
+msgstr "Ocorreu um erro. Por favor, tente novamente."
+
+#: functions.php
+msgid "This field is required."
+msgstr "Este campo é obrigatório."
+
+#: functions.php
+msgid "Please enter a valid email address."
+msgstr "Por favor, insira um endereço de e-mail válido."
+
+#: header.php
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: header.php
+msgid "Toggle Menu"
+msgstr "Alternar Menu"
+
+#: footer.php
+msgid "Navigating the future of technology with reliable software solutions for businesses."
+msgstr "Navegando o futuro da tecnologia com soluções de software confiáveis para empresas."
+
+#: footer.php
+msgid "Navigation"
+msgstr "Navegação"
+
+#: footer.php
+msgid "Systems Integration"
+msgstr "Integração de Sistemas"
+
+#: footer.php
+msgid "Mon - Fri, 9:00 - 18:00"
+msgstr "Seg - Sex, 9:00 - 18:00"
+
+#: footer.php
+msgid "Brazil"
+msgstr "Brasil"
+
+#: footer.php
+msgid "Technology Consulting"
+msgstr "Consultoria Tecnológica"
+
+#: footer.php
+msgid "Home"
+msgstr "Início"
+
+#: footer.php
+msgid "Services"
+msgstr "Serviços"
+
+#: footer.php
+msgid "About"
+msgstr "Sobre"
+
+#: footer.php
+msgid "Contact"
+msgstr "Contato"
+
+#: footer.php
+msgid "Email:"
+msgstr "E-mail:"
+
+#: footer.php
+msgid "All rights reserved."
+msgstr "Todos os direitos reservados."
+
+#: template-parts/section-hero.php
+msgid "Technology Solutions"
+msgstr "Soluções em Tecnologia"
+
+#: template-parts/section-hero.php
+msgid "Navigating the Future"
+msgstr "Navegando o Futuro"
+
+#: template-parts/section-hero.php
+msgid "of Technology"
+msgstr "da Tecnologia"
+
+#: template-parts/section-hero.php
+msgid "Reliable software solutions for businesses. Custom development, systems integration, and technology consulting."
+msgstr "Soluções de software confiáveis para empresas. Desenvolvimento personalizado, integração de sistemas e consultoria tecnológica."
+
+#: template-parts/section-hero.php
+msgid "Contact Us"
+msgstr "Fale Conosco"
+
+#: template-parts/section-hero.php
+msgid "Our Services"
+msgstr "Nossos Serviços"
+
+#: template-parts/section-hero.php
+msgid "Scroll"
+msgstr "Role"
+
+#: template-parts/section-services.php
+msgid "We provide comprehensive technology solutions to help your business grow."
+msgstr "Fornecemos soluções tecnológicas completas para ajudar sua empresa a crescer."
+
+#: inc/theme-setup.php
+msgid "Custom Software Development"
+msgstr "Desenvolvimento de Software Personalizado"
+
+#: inc/theme-setup.php
+msgid "Tailored software solutions designed to meet your specific business requirements."
+msgstr "Soluções de software sob medida, projetadas para atender às necessidades específicas do seu negócio."
+
+#: inc/theme-setup.php
+msgid "Backend Systems & APIs"
+msgstr "Sistemas Backend e APIs"
+
+#: inc/theme-setup.php
+msgid "Robust backend architectures and RESTful APIs for scalable applications."
+msgstr "Arquiteturas backend robustas e APIs RESTful para aplicações escaláveis."
+
+#: inc/theme-setup.php
+msgid "System Integration"
+msgstr "Integração de Sistemas"
+
+#: inc/theme-setup.php
+msgid "Seamless integration between different systems and third-party services."
+msgstr "Integração perfeita entre diferentes sistemas e serviços de terceiros."
+
+#: inc/theme-setup.php
+msgid "Technical Consulting"
+msgstr "Consultoria Técnica"
+
+#: inc/theme-setup.php
+msgid "Expert guidance on technology decisions and software architecture."
+msgstr "Orientação especializada em decisões tecnológicas e arquitetura de software."
+
+#: inc/theme-setup.php
+msgid "Legacy System Maintenance"
+msgstr "Manutenção de Sistemas Legados"
+
+#: inc/theme-setup.php
+msgid "Support and modernization of existing legacy systems."
+msgstr "Suporte e modernização de sistemas legados existentes."
+
+#: inc/theme-setup.php
+msgid "Other Technology Services"
+msgstr "Outros Serviços de Tecnologia"
+
+#: inc/theme-setup.php
+msgid "Additional technology services tailored to your needs."
+msgstr "Serviços de tecnologia adicionais adaptados às suas necessidades."
+
+#: template-parts/section-about.php
+msgid "About Navegar Sistemas"
+msgstr "Sobre a Navegar Sistemas"
+
+#: template-parts/section-about.php
+msgid "Navegar Sistemas LTDA is a technology company specializing in software development and IT services for businesses. We deliver reliable, high-quality solutions tailored to the unique needs of each client."
+msgstr "A Navegar Sistemas LTDA é uma empresa de tecnologia especializada em desenvolvimento de software e serviços de TI para empresas. Entregamos soluções confiáveis e de alta qualidade, adaptadas às necessidades específicas de cada cliente."
+
+#: template-parts/section-about.php
+msgid "Our team of experienced professionals provides comprehensive technology services including custom software development, system integration, technical consulting, and ongoing maintenance support."
+msgstr "Nossa equipe de profissionais experientes oferece serviços completos de tecnologia, incluindo desenvolvimento de software personalizado, integração de sistemas, consultoria técnica e suporte contínuo de manutenção."
+
+#: template-parts/section-about.php
+msgid "We work primarily with B2B clients across various industries, helping organizations optimize their operations through effective technology solutions. Our commitment to quality and professional service has established us as a trusted technology partner."
+msgstr "Trabalhamos principalmente com clientes B2B em diversos setores, ajudando organizações a otimizar suas operações por meio de soluções tecnológicas eficazes. Nosso compromisso com qualidade e serviço profissional nos estabeleceu como um parceiro de tecnologia confiável."
+
+#: template-parts/section-about.php
+msgid "Custom Development"
+msgstr "Desenvolvimento Personalizado"
+
+#: template-parts/section-about.php
+msgid "Software solutions designed specifically for your business requirements."
+msgstr "Soluções de software projetadas especificamente para as necessidades do seu negócio."
+
+#: template-parts/section-about.php
+msgid "Technical Expertise"
+msgstr "Expertise Técnica"
+
+#: template-parts/section-about.php
+msgid "Professional consulting and guidance on technology decisions."
+msgstr "Consultoria profissional e orientação em decisões tecnológicas."
+
+#: template-parts/section-about.php
+msgid "Reliable Support"
+msgstr "Suporte Confiável"
+
+#: template-parts/section-about.php
+msgid "Ongoing maintenance and support for your technology infrastructure."
+msgstr "Manutenção contínua e suporte para sua infraestrutura tecnológica."
+
+#: template-parts/section-contact.php
+msgid "Get in touch with us to discuss your project or learn more about our services."
+msgstr "Entre em contato conosco para discutir seu projeto ou saber mais sobre nossos serviços."
+
+#: template-parts/section-contact.php
+msgid "Company"
+msgstr "Empresa"
+
+#: template-parts/section-contact.php
+msgid "Business Hours"
+msgstr "Horário de Funcionamento"
+
+#: template-parts/section-contact.php
+msgid "Monday to Friday"
+msgstr "Segunda a Sexta"
+
+#: inc/contact-form.php
+msgid "Name"
+msgstr "Nome"
+
+#: inc/contact-form.php
+msgid "Your name"
+msgstr "Seu nome"
+
+#: inc/contact-form.php
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/contact-form.php
+msgid "your@email.com"
+msgstr "seu@email.com"
+
+#: inc/contact-form.php
+msgid "Message"
+msgstr "Mensagem"
+
+#: inc/contact-form.php
+msgid "How can we help you?"
+msgstr "Como podemos ajudá-lo?"
+
+#: inc/contact-form.php
+msgid "Send Message"
+msgstr "Enviar Mensagem"
+
+#: inc/contact-form.php
+msgid "Security verification failed. Please refresh the page and try again."
+msgstr "Verificação de segurança falhou. Por favor, atualize a página e tente novamente."
+
+#: inc/contact-form.php
+msgid "Spam detected."
+msgstr "Spam detectado."
+
+#: inc/contact-form.php
+msgid "Please enter your name."
+msgstr "Por favor, insira seu nome."
+
+#: inc/contact-form.php
+msgid "Name must be at least 2 characters."
+msgstr "O nome deve ter pelo menos 2 caracteres."
+
+#: inc/contact-form.php
+msgid "Name must be less than 100 characters."
+msgstr "O nome deve ter menos de 100 caracteres."
+
+#: inc/contact-form.php
+msgid "Please enter your email address."
+msgstr "Por favor, insira seu endereço de e-mail."
+
+#: inc/contact-form.php
+msgid "Please enter your message."
+msgstr "Por favor, insira sua mensagem."
+
+#: inc/contact-form.php
+msgid "Message must be at least 10 characters."
+msgstr "A mensagem deve ter pelo menos 10 caracteres."
+
+#: inc/contact-form.php
+msgid "Message must be less than 5000 characters."
+msgstr "A mensagem deve ter menos de 5000 caracteres."
+
+#: inc/contact-form.php
+msgid "Please correct the errors below."
+msgstr "Por favor, corrija os erros abaixo."
+
+#: inc/contact-form.php
+msgid "Too many requests. Please try again later."
+msgstr "Muitas solicitações. Por favor, tente novamente mais tarde."
+
+#: inc/contact-form.php
+msgid "[Navegar Sistemas] Contact from %s"
+msgstr "[Navegar Sistemas] Contato de %s"
+
+#: inc/contact-form.php
+msgid "New Contact Message"
+msgstr "Nova Mensagem de Contato"
+
+#: inc/contact-form.php
+msgid "Date:"
+msgstr "Data:"
+
+#: inc/contact-form.php
+msgid "This message was sent from %s"
+msgstr "Esta mensagem foi enviada de %s"
+
+#: inc/contact-form.php
+msgid "Thank you for your message. We will get back to you soon."
+msgstr "Obrigado pela sua mensagem. Retornaremos em breve."
+
+#: inc/contact-form.php
+msgid "Failed to send message. Please try again or contact us directly."
+msgstr "Falha ao enviar mensagem. Por favor, tente novamente ou entre em contato diretamente."
+
+#: index.php
+msgid "&larr; Older posts"
+msgstr "&larr; Posts anteriores"
+
+#: index.php
+msgid "Newer posts &rarr;"
+msgstr "Posts recentes &rarr;"
+
+#: index.php
+msgid "Nothing Found"
+msgstr "Nada Encontrado"
+
+#: index.php
+msgid "It seems we can't find what you're looking for."
+msgstr "Parece que não conseguimos encontrar o que você está procurando."
+
+#: page.php
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: header.php (nautical theme)
+msgid "Technology Systems"
+msgstr "Sistemas Tecnológicos"
+
+#: template-parts/section-hero.php
+msgid "Software Development"
+msgstr "Desenvolvimento de Software"
+
+msgid "for Your Business"
+msgstr "para Sua Empresa"
+
+msgid "Custom software development, systems integration, and technology consulting. We transform ideas into reliable solutions."
+msgstr "Desenvolvimento de software personalizado, integração de sistemas e consultoria tecnológica. Transformamos ideias em soluções confiáveis."
+
+msgid "Get in Touch"
+msgstr "Fale Conosco"
+
+#: template-parts/section-services.php
+msgid "What We Do"
+msgstr "O Que Fazemos"
+
+msgid "Comprehensive technology solutions to help your business grow and thrive."
+msgstr "Soluções tecnológicas completas para ajudar sua empresa a crescer e prosperar."
+
+msgid "Tailored software solutions built from scratch to meet your specific business needs and requirements."
+msgstr "Soluções de software sob medida, construídas do zero para atender às necessidades específicas do seu negócio."
+
+msgid "Connect and unify your existing systems for seamless data flow and improved operational efficiency."
+msgstr "Conecte e unifique seus sistemas existentes para fluxo de dados contínuo e maior eficiência operacional."
+
+msgid "Expert guidance to help you make informed decisions about your technology infrastructure and strategy."
+msgstr "Orientação especializada para ajudá-lo a tomar decisões informadas sobre sua infraestrutura e estratégia tecnológica."
+
+#: template-parts/section-about.php (nautical theme)
+msgid "Who We Are"
+msgstr "Quem Somos"
+
+msgid "Navegar Sistemas LTDA is a technology company specializing in software development and IT services for businesses."
+msgstr "A Navegar Sistemas LTDA é uma empresa de tecnologia especializada em desenvolvimento de software e serviços de TI para empresas."
+
+msgid "We work primarily with B2B clients across various industries, helping organizations optimize their operations through effective technology solutions."
+msgstr "Trabalhamos principalmente com clientes B2B em diversos setores, ajudando organizações a otimizar suas operações por meio de soluções tecnológicas eficazes."
+
+msgid "Quality"
+msgstr "Qualidade"
+
+msgid "Excellence in every line of code"
+msgstr "Excelência em cada linha de código"
+
+msgid "Commitment"
+msgstr "Compromisso"
+
+msgid "Deadlines and deliverables matter"
+msgstr "Prazos e entregas importam"
+
+msgid "Partnership"
+msgstr "Parceria"
+
+msgid "Your success is our success"
+msgstr "Seu sucesso é nosso sucesso"
+
+msgid "Work With Us"
+msgstr "Trabalhe Conosco"
+
+#: template-parts/section-contact.php
+msgid "Contact Information"
+msgstr "Informações de Contato"
+
+msgid "Ready to start your project? Get in touch and let's discuss how we can help your business."
+msgstr "Pronto para iniciar seu projeto? Entre em contato e vamos discutir como podemos ajudar sua empresa."
+
+msgid "Send a Message"
+msgstr "Envie uma Mensagem"
+
+msgid "Location"
+msgstr "Localização"
+
+msgid "Subject"
+msgstr "Assunto"
+
+msgid "How can we help?"
+msgstr "Como podemos ajudar?"
+
+msgid "Tell us about your project..."
+msgstr "Conte-nos sobre seu projeto..."
+
+msgid "Mon - Fri, 9:00 - 18:00 (BRT)"
+msgstr "Seg - Sex, 9:00 - 18:00 (BRT)"
+
+#: footer.php
+msgid "Reliable software solutions and technology services for businesses."
+msgstr "Soluções de software confiáveis e serviços de tecnologia para empresas."
+
+#: template-parts/section-hero.php (compass)
+msgid "Heading"
+msgstr "Rumo"
+
+msgid "Scroll Depth"
+msgstr "Profundidade"
