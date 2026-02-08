@@ -298,7 +298,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu {
     display: flex;
     align-items: center;
-    gap: var(--spacing-lg);
+    gap: var(--spacing-md);
     list-style: none;
 }
 
@@ -312,6 +312,12 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a:hover,
 .nav-menu a.active {
     color: var(--text-on-dark);
+}
+
+.menu-container {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-xl);
 }
 
 .menu-toggle {
@@ -445,7 +451,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .badge-top-left {
     top: 10%;
-    left: -5%;
+    left: -15%;
     animation-delay: 0s;
 }
 
@@ -559,7 +565,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .stats-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: var(--spacing-lg);
 }
 

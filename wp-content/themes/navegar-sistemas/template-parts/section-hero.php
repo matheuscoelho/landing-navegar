@@ -65,25 +65,6 @@ if ( ! defined( 'ABSPATH' ) ) {
                     </a>
                 </div>
 
-                <!-- Social Proof -->
-                <div class="hero-social-proof" data-animate="fade-up" data-delay="300">
-                    <div class="rating">
-                        <div class="stars">
-                            <?php for ( $i = 0; $i < 5; $i++ ) : ?>
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="#F59E0B">
-                                    <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
-                                </svg>
-                            <?php endfor; ?>
-                        </div>
-                        <span class="rating-text">
-                            <strong>4.9</strong> <?php esc_html_e( 'de 5 estrelas', 'navegar-sistemas' ); ?>
-                        </span>
-                    </div>
-                    <span class="divider"></span>
-                    <span class="reviews-count">
-                        <?php esc_html_e( 'Baseado em', 'navegar-sistemas' ); ?> <strong>50+</strong> <?php esc_html_e( 'avaliações', 'navegar-sistemas' ); ?>
-                    </span>
-                </div>
             </div>
         </div>
     </div>
