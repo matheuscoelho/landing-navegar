@@ -71,7 +71,7 @@ if ( ! defined( 'ABSPATH' ) ) {
             <!-- Logo -->
             <div class="site-branding">
                 <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="site-logo" rel="home">
-                    <img src="<?php echo esc_url( NAVEGAR_THEME_URI . '/assets/images/logo.png' ); ?>" alt="Navegar Sistemas" class="logo-img">
+                    <img src="<?php echo esc_url( NAVEGAR_THEME_URI . '/assets/images/logo_white.png' ); ?>" alt="Navegar Sistemas" class="logo-img">
                 </a>
             </div>
 
