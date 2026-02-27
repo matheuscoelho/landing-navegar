@@ -44,7 +44,7 @@ $services = array(
 );
 ?>
 
-<section class="section-services" id="services">
+<section class="section-services section-glow-orange" id="services">
     <div class="container">
         <header class="section-header" data-animate="fade-up">
             <span class="section-label">

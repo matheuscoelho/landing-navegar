@@ -38,7 +38,7 @@ $steps = array(
 );
 ?>
 
-<section class="section-process" id="process">
+<section class="section-process section-glow-purple" id="process">
     <div class="container">
         <header class="section-header" data-animate="fade-up">
             <span class="section-label">

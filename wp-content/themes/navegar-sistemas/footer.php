@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
             <!-- Brand Column -->
             <div class="footer-brand">
                 <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="footer-logo-link">
-                    <img src="<?php echo esc_url( NAVEGAR_THEME_URI . '/assets/images/logo_white.png' ); ?>" alt="Navegar Sistemas" class="footer-logo-img">
+                    <img src="<?php echo esc_url( NAVEGAR_THEME_URI . '/assets/images/logo.svg' ); ?>" alt="Navegar Sistemas" class="footer-logo-img">
                 </a>
                 <p class="footer-tagline">
                     <?php esc_html_e( 'Parceira técnica estratégica para organizações que operam em ambientes críticos e regulados.', 'navegar-sistemas' ); ?>

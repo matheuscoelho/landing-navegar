@@ -62,10 +62,10 @@ add_action( 'after_setup_theme', 'navegar_theme_setup' );
  * Enqueue scripts and styles
  */
 function navegar_enqueue_assets() {
-    // Google Fonts - Inter (Modern, Clean)
+    // Google Fonts - Space Grotesk + JetBrains Mono
     wp_enqueue_style(
         'navegar-google-fonts',
-        'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap',
+        'https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap',
         array(),
         null
     );

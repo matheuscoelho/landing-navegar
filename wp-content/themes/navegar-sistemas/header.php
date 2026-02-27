@@ -40,7 +40,7 @@ if ( ! defined( 'ABSPATH' ) ) {
         "@type": "Organization",
         "name": "Navegar Sistemas",
         "url": "<?php echo esc_js( home_url( '/' ) ); ?>",
-        "logo": "<?php echo esc_js( NAVEGAR_THEME_URI . '/assets/images/logo.png' ); ?>",
+        "logo": "<?php echo esc_js( NAVEGAR_THEME_URI . '/assets/images/logo.svg' ); ?>",
         "description": "<?php echo esc_js( __( 'Parceira técnica para ambientes de alta dependência tecnológica', 'navegar-sistemas' ) ); ?>",
         "foundingDate": "2019",
         "sameAs": [
@@ -71,7 +71,7 @@ if ( ! defined( 'ABSPATH' ) ) {
             <!-- Logo -->
             <div class="site-branding">
                 <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="site-logo" rel="home">
-                    <img src="<?php echo esc_url( NAVEGAR_THEME_URI . '/assets/images/logo_white.png' ); ?>" alt="Navegar Sistemas" class="logo-img">
+                    <img src="<?php echo esc_url( NAVEGAR_THEME_URI . '/assets/images/logo.svg' ); ?>" alt="Navegar Sistemas" class="logo-img">
                 </a>
             </div>
 

@@ -56,7 +56,7 @@ $benefits = array(
                     <div class="chart-ring">
                         <svg viewBox="0 0 100 100">
                             <circle cx="50" cy="50" r="40" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="8"/>
-                            <circle cx="50" cy="50" r="40" fill="none" stroke="#0D9488" stroke-width="8" stroke-dasharray="251.2" stroke-dashoffset="2.5" transform="rotate(-90 50 50)"/>
+                            <circle cx="50" cy="50" r="40" fill="none" stroke="#FD6800" stroke-width="8" stroke-dasharray="251.2" stroke-dashoffset="2.5" transform="rotate(-90 50 50)"/>
                         </svg>
                     </div>
                 </div>

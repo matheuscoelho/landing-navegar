@@ -19,30 +19,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 
     <div class="container">
         <div class="hero-content">
-            <!-- Floating Badges -->
-            <div class="hero-badges">
-                <div class="badge badge-float badge-top-left" data-animate="fade-in">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
-                    </svg>
-                    <span><?php esc_html_e( 'Segurança', 'navegar-sistemas' ); ?></span>
-                </div>
-                <div class="badge badge-float badge-top-right" data-animate="fade-in">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
-                    </svg>
-                    <span>99.9% Uptime</span>
-                </div>
-                <div class="badge badge-float badge-bottom-left" data-animate="fade-in">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
-                    </svg>
-                    <span><?php esc_html_e( 'Escalável', 'navegar-sistemas' ); ?></span>
-                </div>
-            </div>
-
             <!-- Main Content -->
             <div class="hero-main">
+                <span class="hero-tagline" data-animate="fade-up"><?php esc_html_e( 'direção, não impulso.', 'navegar-sistemas' ); ?></span>
                 <h1 class="hero-title" data-animate="fade-up">
                     <?php esc_html_e( 'O Futuro da Tecnologia com Inovação Estratégica', 'navegar-sistemas' ); ?>
                 </h1>
