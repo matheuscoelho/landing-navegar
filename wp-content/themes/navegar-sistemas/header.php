@@ -43,14 +43,11 @@ if ( ! defined( 'ABSPATH' ) ) {
         "logo": "<?php echo esc_js( NAVEGAR_THEME_URI . '/assets/images/logo.svg' ); ?>",
         "description": "<?php echo esc_js( __( 'Parceira técnica para ambientes de alta dependência tecnológica', 'navegar-sistemas' ) ); ?>",
         "foundingDate": "2019",
-        "sameAs": [
-            "https://linkedin.com/company/navegarsistemas",
-            "https://github.com/navegarsistemas"
-        ],
         "contactPoint": {
             "@type": "ContactPoint",
             "contactType": "Customer Service",
-            "email": "contato@navegarsistemas.com.br"
+            "email": "contato@navegarsistemas.com.br",
+            "telephone": "+5511969662203"
         }
     }
     </script>
