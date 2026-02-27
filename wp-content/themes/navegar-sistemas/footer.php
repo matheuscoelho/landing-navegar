@@ -54,7 +54,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                 <div class="contact-info">
                     <a href="mailto:contato@navegarsistemas.com.br">contato@navegarsistemas.com.br</a>
                     <a href="tel:+5511969662203">+55 11 96966-2203</a>
-                    <span><?php esc_html_e( 'Brasil', 'navegar-sistemas' ); ?></span>
+                    <span><?php esc_html_e( 'São Paulo/SP', 'navegar-sistemas' ); ?></span>
                 </div>
             </div>
         </div>

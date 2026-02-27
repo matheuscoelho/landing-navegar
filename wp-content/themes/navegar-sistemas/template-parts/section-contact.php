@@ -62,7 +62,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                         </div>
                         <div class="contact-text">
                             <span class="contact-label"><?php esc_html_e( 'Localização', 'navegar-sistemas' ); ?></span>
-                            <span><?php esc_html_e( 'Brasil', 'navegar-sistemas' ); ?></span>
+                            <span><?php esc_html_e( 'São Paulo/SP', 'navegar-sistemas' ); ?></span>
                         </div>
                     </div>
                 </div>
